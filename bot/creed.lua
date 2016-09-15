@@ -241,18 +241,7 @@ function create_config( )
     moderation = {data = 'data/moderation.json'},
     about_text = [[Creed bot 2.3
     
-     Hello my Good friends 
-     
-    ‼️ this bot is made by : @creed_is_dead
-   〰〰〰〰〰〰〰〰
-   ߔࠀ   our admins are : 
-   ߔࠀ   @sorblack_creed
-   ߔࠀ   @amircc_creed
-   ߔࠀ   @aria_creed
-   〰〰〰〰〰〰〰〰
-  ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
-   تمامی درخواست ها و همه ی انتقادات و حرفاتونو با دستور زیر بفرستین به ما
-   !feedback (your ideas and messages)
+  Ex Mini Bot Lunched ! @xSh3rPedia -- Channel For Having Fun !
 ]],
     help_text_realm = [[
 Realm Commands:
